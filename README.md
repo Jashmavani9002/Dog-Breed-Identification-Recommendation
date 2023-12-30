@@ -61,7 +61,7 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
 
  <p>
     <h3>Training</h3>
-    <span> <img src='static/img/Predict1.jpg' height="40px", width="50px"> <img src='static/img/Predict2.png' height="40px", width="50px"> </span>
+    <span> <img src='static/img/Predict1.jpg' height="400px", width="500px"> <img src='static/img/Predict2.png' height="40px", width="50px"> </span>
     <h3>Prediction</h3>
     
 </p>	
