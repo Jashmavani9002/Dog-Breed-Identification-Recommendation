@@ -60,9 +60,12 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
   - Dynamic Adjustment: Algorithm adjusts to evolving user preferences.
 
  <p>
-    <h3>Training</h3>
-    <span> <img src='static/img/Predict1.jpg' height="400px", width="500px"> <img src='static/img/Predict2.png' height="40px", width="50px"> </span>
     <h3>Prediction</h3>
+    <span> <img src='static/img/Predict1.jpg' height="300px", width="600px"> <img src='static/img/Predict2.png' height="300px", width="600px"> </span>
+  <br>
+  <br>
+    <h3>Recommendation</h3>
+    <img src='static/img/Recommendation.png' height="300px", width="600px">
     
 </p>	
 
