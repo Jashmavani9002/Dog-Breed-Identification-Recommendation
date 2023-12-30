@@ -61,7 +61,7 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
 
  <p>
     <h3>Prediction</h3>
-    <span> <img src='static/img/Predict1.jpg' height="300px", width="600px"> <img src='static/img/Predict2.png' height="300px", width="600px"> </span>
+    <span> <img src='static/img/Predict1.jpg' height="250px", width="500px"> <img src='static/img/Predict2.png' height="250px", width="500px"> </span>
   <br>
   <br>
     <h3>Recommendation</h3>
