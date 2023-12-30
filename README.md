@@ -33,5 +33,41 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
 - Annotations: Class labels, Bounding boxes
 
 
+# Implementation
+
+## Inception V3 for Dog Breed Classification
+
+### Model Overview
+
+- **Inception V3:** Pre-trained CNN for image classification.
+- **Google-developed:** Excels in recognizing intricate patterns.
+- **Trained on diverse dog breed images:** Accurately categorizes input into specific breeds.
+- **Transfer Learning:** Utilized pre-trained Inception V3 weights.
+- **Fine-Tuning:** Custom dataset fine-tuning for breed accuracy.
+- **Adaptability:** Designed for potential future breed expansion.
+
+## Cosine Similarity for Personalized Dog Recommendations
+
+### Approach Overview
+
+- **Cosine Similarity:** Measures the cosine of the angle between two vectors.
+- **Data Collection:**
+  - **Source:** Scraped data from AKC Dog Breeds website.
+  - **Objective:** Gathered comprehensive information on various dog breeds for training the model and providing detailed breed profiles.
+- **User-Centric Recommendations:**
+  - Tailored recommendations based on user input.
+  - Factors in size, temperament, and exercise preferences.
+  - Dynamic Adjustment: Algorithm adjusts to evolving user preferences.
+
+ <p>
+    <h3>Training</h3>
+    <img src='data/training.png'>
+    <br>
+    <br>
+    <h3>Prediction</h3>
+    <img src='data/prediction.png'>
+</p>	
+
+
 
 
