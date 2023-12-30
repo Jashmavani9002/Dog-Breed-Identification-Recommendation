@@ -17,8 +17,28 @@ Welcome to our Dog Breed Identification and Recommendation Web App repository! T
    cd dog-breed-identification
 
 # Install Dependencies
+<b>Run command :
+```bash 
 pip install -r requirements.txt
+```
+
 
 # Run the Django App
+<b>Run command :
+```bash 
 python manage.py runserver
+```
+
+ ## Dataset
+ 
+ ```bash
+http://vision.stanford.edu/aditya86/ImageNetDogs/
+```
+- Number of categories: 120
+- Number of images: 20,580
+- ~150 images per class
+- Annotations: Class labels, Bounding boxes
+
+
+
 
