@@ -1,0 +1,121 @@
+Name,SIZE,EXERCISE,SIZE_OF_HOME,GROOMING,COAT_LENGTH,SHEDS,LIFESPAN,VULNERABLE_NATIVE_BREED,TOWN_OR_COUNTRY,SIZE_OF_GARDEN
+affenpinscher,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+afghan_hound,Large,More than 2 hours per day,Large house,Every day,Long,Yes,Over 10 years,No,Country,Large garden
+african_hunting_dog,Medium,More than 2 hours per day,Large house,Every day,Short,Yes,Over 10 years,No,Either,Large garden
+airedale,Medium,Up to 1 hour per day,Large house,Every day,Medium,Yes,Over 10 years,No,Either,Large garden
+american_staffordshire_terrier,Medium,60-90,Medium house or apartment,Moderate,Short,Yes,16-Dec,No,Town or country,Medium
+appenzeller,Medium,60-90,Medium house or apartment,Moderate,Medium,Yes,15-Dec,Yes,Country,Medium
+australian_terrier,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+basenji,Small,Up to 1 hour per day,Small house,Once a week,Short,Yes,Over 12 years,No,Either,Small/ medium garden
+basset,Medium,More than 2 hours per day,Small house,Once a week,Short,Yes,Over 10 years,,Either,Small/ medium garden
+beagle,Small,Up to 1 hour per day,Small house,Once a week,Short,Yes,Over 12 years,No,Either,Small/ medium garden
+bedlington_terrier,Small,Up to 1 hour per day,Small house,Once a week,Medium,No,Over 10 years,No,Either,Small/ medium garden
+bernese_mountain_dog,Large,Up to 1 hour per day,Large house,More than once a week,Medium,Yes,Under 10 years,No,Either,Large garden
+black-and-tan_coonhound,Large,60-90,Medium house or apartment,Moderate,Short,Yes,12-Oct,No,Town or country,Medium
+blenheim_spaniel,Small,30-60,Small house or apartment,Moderate,Long,Yes,15-Dec,No,Town or country,Small
+bloodhound,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Under 10 years,Yes,Country,Large garden
+bluetick,Large,60-90,Medium house or apartment,Moderate,Short,Yes,12-Oct,No,Town or country,Medium
+border_collie,Medium,More than 2 hours per day,Small house,More than once a week,Medium,Yes,Over 12 years,No,Either,Large garden
+border_terrier,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Short,Yes,Over 12 years,No,Either,Small/ medium garden
+borzoi,Large,Up to 1 hour per day,Large house,More than once a week,Medium,Yes,Over 10 years,No,Country,Large garden
+boston_bull,Small,Up to 1 hour per day,Flat/ Apartment,Once a week,Short,Yes,Over 10 years,No,Either,Small/ medium garden
+bouvier_des_flandres,Large,Up to 1 hour per day,Large house,Every day,Medium,No,Over 10 years,No,Either,Large garden
+boxer,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Over 10 years,No,Either,Large garden
+brabancon_griffon,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Under 10 years,No,Country,Large garden
+briard,Large,More than 2 hours per day,Large house,Every day,Long,Yes,Over 10 years,No,Either,Large garden
+brittany_spaniel,Medium,More than 2 hours per day,Small house,More than once a week,Medium,Yes,Over 10 years,No,Country,Large garden
+bull_mastiff,Medium,Up to 1 hour per day,Small house,Once a week,Short,Yes,Over 10 years,No,Either,Small/ medium garden
+cairn,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 10 years,No,Either,Small/ medium garden
+cardigan,Small ,1-2 hours per day,Apartment,Moderate,Medium,Yes,12-15 years,No,Town or country,Small 
+chesapeake_bay_retriever,Large,1-2 hours per day,House with yard,High,Medium,Yes,10-13 years,No,Country,Large
+chihuahua,Small,Up to 30 minutes per day,Flat/ Apartment,Once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+chow,Medium,Up to 1 hour per day,Large house,Every day,Medium,Yes,Under 10 years,No,Country,Small/ medium garden
+clumber,Medium,1 hour per day,Apartment or house with yard,High,Long,Yes,10-12 years,No,Town or country,Medium 
+cocker_spaniel,Small,Up to 1 hour per day,Small house,Every day,Medium,Yes,Over 10 years,No,Either,Small/ medium garden
+collie,Medium,Up to 1 hour per day,Small house,Every day,Medium,Yes,Over 12 years,No,Either,Large garden
+curly-coated_retriever,Medium ,1-2 hours per day,House with yard,High,Medium,Yes,10-13 years,No,Country,Large
+dandie_dinmont,Small,Up to 1 hour per day,Small house,More than once a week,Medium,No,Over 12 years,Yes,Either,Small/ medium garden
+dhole,Medium ,2-3 hours per day,Country,Low,Short,Yes,10-12 years,Yes,Country,Large
+dingo,Medium ,2-3 hours per day,Country,Low,Short,Yes,10-13 years,Yes,Country,Large
+doberman,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Over 10 years,No,Either,Large garden
+english_foxhound,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Over 12 years,No,Country,Large garden
+english_setter,Large,More than 2 hours per day,Large house,More than once a week,Medium,Yes,Over 10 years,Yes,Either,Large garden
+english_springer,Medium,1-2 hours per day,House with yard,Moderate,Medium,Yes,10-14 years,No,Town or country,Medium 
+entlebucher,Medium,Up to 1 hour per day,Small house,Once a week,Short,Yes,Over 12 years,No,Either,Large garden
+eskimo_dog,Medium ,1-2 hours per day,House with yard,High,Thick,Yes,12-15 years,Yes,Country,Large
+flat-coated_retriever,Medium ,1-2 hours per day,House with yard,High,Medium,Yes,10-12 years,No,Country,Large
+french_bulldog,Small,Up to 1 hour per day,Flat/ Apartment,Once a week,Short,Yes,Over 10 years,No,Either,Small/ medium garden
+german_shepherd,Large,More than 2 hours per day,Large house,More than once a week,Short & long,Yes,Over 10 years,No,Either,Large garden
+german_short-haired_pointer,Medium,More than 2 hours per day,Large house,Once a week,Short,Yes,Over 10 years,No,Country,Large garden
+giant_schnauzer,Large,More than 2 hours per day,Large house,Every day,Medium,No,Over 12 years,No,Either,Large garden
+golden_retriever,Medium ,1-2 hours per day,House with yard,High,Medium,Yes,10-13 years,No,Town or country,Large
+gordon_setter,Large,More than 2 hours per day,Large house,More than once a week,Medium,Yes,Over 10 years,Yes,Country,Large garden
+great_dane,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Under 10 years,No,Either,Large garden
+great_pyrenees,Large,1-2 hours per day,Country,High,Long,Yes,10-12 years,Yes,Country,Very large
+greater_swiss_mountain_dog,Large,Up to 1 hour per day,Large house,Once a week,Short,Yes,Over 10 years,No,Country,Large garden
+groenendael,Medium ,1-2 hours per day,House with yard,High,Long,Yes,10-13 years,No,Town or country,Medium 
+ibizan_hound,Medium,More than 2 hours per day,Large house,Once a week,Short,Yes,Over 10 years,No,Country,Large garden
+irish_setter,Large,More than 2 hours per day,Large house,More than once a week,Medium,Yes,Over 10 years,No,Either,Large garden
+irish_terrier,Small,Up to 1 hour per day,Small house,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+irish_water_spaniel,Medium ,1-2 hours per day,House with yard,High,Medium,Yes,10-13 years,No,Country,Large
+irish_wolfhound,Large,More than 2 hours per day,Large house,More than once a week,Medium,Yes,Under 10 years,Yes,Country,Large garden
+italian_greyhound,Small,Up to 1 hour per day,Small house,Once a week,Short,No,Over 12 years,No,Either,Small/ medium garden
+japanese_spaniel,Small,30 minutes per day,Apartment,High,Long,Yes,10-12 years,No,Town or country,Small
+keeshond,Medium,Up to 1 hour per day,Small house,Every day,Medium,Yes,Over 10 years,No,Either,Small/ medium garden
+kelpie,Medium,1-2 hours per day,Country,Low,Medium,Yes,10-13 years,No,Country,Large
+kerry_blue_terrier,Medium,Up to 1 hour per day,Small house,Once a week,Medium,No,Over 10 years,Yes,Either,Small/ medium garden
+komondor,Large,Up to 1 hour per day,Large house,More than once a week,Long,No,Under 10 years,No,Country,Large garden
+kuvasz,Large,1-2 hours per day,Country,High,Long,Yes,10-12 years,Yes,Country,Very large
+labrador_retriever,Medium ,1-2 hours per day,House with yard,High,Medium,Yes,10-13 years,No,Town or country,Large
+lakeland_terrier,Small,Up to 1 hour per day,Small house,More than once a week,Short,No,Over 12 years,Yes,Either,Small/ medium garden
+leonberg,Large,More than 2 hours per day,Large house,Once a week,Medium,Yes,Under 10 years,No,Country,Large garden
+lhasa,Small,Up to 1 hour per day,Flat/ Apartment,Every day,Long,No,Over 12 years,No,Either,Small/ medium garden
+malamute,Large,1-2 hours per day,Country,High,Thick,Yes,10-12 years,Yes,Country,Very large
+malinois,Medium ,1-2 hours per day,House with yard,High,Short,Yes,12-14 years,No,Town or country,Medium 
+maltese_dog,Small,Up to 30 minutes per day,Flat/ Apartment,Every day,Long,No,Over 12 years,No,Either,Small/ medium garden
+mexican_hairless,Small ,30 minutes per day,Apartment,Low,None,No,12-15 years,No,Town or country,small garden
+miniature_pinscher,Small,Up to 30 minutes per day,Flat/ Apartment,Once a week,Short,Yes,Over 12 years,No,Either,Small/ medium garden
+miniature_poodle,Small,30 minutes per day,Apartment,High,Curly,Yes,10-14 years,No,Town or country,small garden
+miniature_schnauzer,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,No,Over 10 years,No,Either,Small/ medium garden
+newfoundland,Large,Up to 1 hour per day,Large house,Every day,Medium,Yes,Under 10 years,No,Country,Large garden
+norfolk_terrier,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 10 years,No,Either,Small/ medium garden
+norwegian_elkhound,Medium ,1 hour per day,Apartment or house with yard,High,Thick,Yes,12-15 years,No,Town or country,Medium 
+norwich_terrier,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 10 years,Yes,Either,Small/ medium garden
+old_english_sheepdog,Large,More than 2 hours per day,Large house,Every day,Long,Yes,Over 10 years,Yes,Either,Large garden
+otterhound,Large,More than 2 hours per day,Large house,More than once a week,Medium,Yes,Over 10 years,Yes,Country,Large garden
+papillon,Small,Up to 30 minutes per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 12 years,No,Either,No garden
+pekinese,Small,Up to 30 minutes per day,Flat/ Apartment,Every day,Long,Yes,Over 12 years,No,Either,Small/ medium garden
+pembroke,Medium,30 minutes-1 hour per day,Apartment or house with yard,Moderate,Medium,Yes,12-15 years,No,Town or country,Medium
+pomeranian,Small,Up to 30 minutes per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+pug,Small,Up to 1 hour per day,Flat/ Apartment,Once a week,Short,Yes,Over 10 years,No,Either,Small/ medium garden
+redbone,Large,High,House,Moderate,Short,Yes,10-12 years,No,Country,Medium
+rhodesian_ridgeback,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Over 10 years,No,Either,Large garden
+rottweiler,Large,More than 2 hours per day,Large house,Once a week,Short,Yes,Under 10 years,No,Either,Large garden
+saint_bernard,Giant,Moderate,House,High,Long,Yes,8-10 years,No,Country,Large
+saluki,Medium,More than 2 hours per day,Large house,Once a week,Short,Yes,Over 12 years,No,Country,Large garden
+samoyed,Medium,More than 2 hours per day,Large house,Every day,Medium,Yes,Over 10 years,No,Country,Large garden
+schipperke,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+scotch_terrier,Small,Up to 1 hour per day,Small house,Every day,Long,Yes,Over 10 years,No,Either,Small/ medium garden
+scottish_deerhound,Giant,High,House,Moderate,Long,Yes,7-10 years,No,Country,Large
+sealyham_terrier,Small,Up to 1 hour per day,Small house,Every day,Long,No,Over 10 years,Yes,Either,Small/ medium garden
+shetland_sheepdog,Small,Up to 1 hour per day,Small house,Every day,Medium,Yes,Over 10 years,No,Either,Small/ medium garden
+shih-tzu,Small,Up to 1 hour per day,Flat/ Apartment,Every day,Long,No,Over 10 years,No,Either,Small/ medium garden
+siberian_husky,Medium,More than 2 hours per day,Large house,More than once a week,Short,Yes,Over 10 years,No,Country,Large garden
+silky_terrier,Small,Moderate,Apartment,High,Long,Yes,12-15 years,No,Town or Country,small garden
+soft-coated_wheaten_terrier,Medium,Up to 1 hour per day,Small house,Every day,Medium,No,Over 12 years,Yes,Either,Small/ medium garden
+staffordshire_bullterrier,Small,Up to 1 hour per day,Small house,Once a week,Short,Yes,Over 12 years,No,Either,Small/ medium garden
+standard_poodle,Medium,Up to 1 hour per day,Large house,Every day,Medium,No,Over 12 years,No,Either,Large garden
+standard_schnauzer,Medium,Up to 1 hour per day,Small house,More than once a week,Medium,Yes,Over 10 years,No,Either,Small/ medium garden
+sussex_spaniel,Medium,More than 2 hours per day,Small house,More than once a week,Medium,Yes,Over 10 years,Yes,Country,Large garden
+tibetan_mastiff,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+tibetan_terrier,Small,Up to 1 hour per day,Small house,Every day,Long,No,Over 12 years,No,Either,Small/ medium garden
+toy_poodle,Small,Up to 1 hour per day,Flat/ Apartment,Every day,Medium,No,Over 12 years,No,Either,Small/ medium garden
+toy_terrier,Small,Moderate,Apartment,High,Short,Yes,12-15 years,No,Town or Country,small garden
+vizsla,Medium,High,House,Moderate,Short,Yes,10-12 years,No,Country,Medium
+walker_hound,Large,High,House,Moderate,Short,Yes,10-12 years,No,Country,Medium
+weimaraner,Large,More than 2 hours per day,Large house,Once a week,Short & long,Yes,Over 10 years,No,Either,Large garden
+welsh_springer_spaniel,Small,Up to 1 hour per day,Small house,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+west_highland_white_terrier,Small,Up to 1 hour per day,Flat/ Apartment,More than once a week,Medium,Yes,Over 12 years,No,Either,Small/ medium garden
+whippet,Small,Up to 1 hour per day,Small house,Once a week,Short,Yes,Over 12 years,No,Either,Small/ medium garden
+wire-haired_fox_terrier,Medium,Moderate,Apartment,High,Short,Yes,12-15 years,No,Town or Country,small garden
+yorkshire_terrier,Small,Up to 30 minutes per day,Flat/ Apartment,Every day,Long,No,Over 12 years,No,Either,Small/ medium garden
