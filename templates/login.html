@@ -1,0 +1,39 @@
+{% load static %}
+{% if messg %}
+<script>
+  alert('{{ messg }}');
+</script>
+{% endif %}
+<html>
+    <head>
+        <title>Login</title>    
+        <link rel="stylesheet" href="{% static 'css/styleuu.css' %}">
+    </head>
+    <body>
+      <div class="banner2">
+        <div class="navbar">
+          <img src="static/logo.png" class="logo">
+          <ul>
+            <li>
+              <a href="http://127.0.0.1:8000/#">Back</a>
+            </li>
+          </ul>
+        </div>
+        <div class="content">
+          <form action="home" method="post">
+            {% csrf_token %}
+            <label for="uname"><b>USER EMAIL : </b></label>
+            <input class = "input2" type="email" placeholder="Enter Email" name="uname" required>
+            <br>
+            <label for="psw"><b>PASSWORD :</b></label>
+            <input class = "input2" type="password" placeholder="Enter Password" name="psw" required>
+            <br>
+            <button type="submit"> <span> </span> Login</button><br>
+            <!-- <label>
+              <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label> -->
+            </form>
+          </div>
+        </div>
+    </body>
+</html>
