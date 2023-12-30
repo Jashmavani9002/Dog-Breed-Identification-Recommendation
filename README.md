@@ -61,11 +61,11 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
 
  <p>
     <h3>Training</h3>
-    <img src='data/training.png'>
+    <img src='static/img/predict2.png'>
     <br>
     <br>
     <h3>Prediction</h3>
-    <img src='data/prediction.png'>
+    <img src='static/img/predict2.png'>
 </p>	
 
 
